@@ -1,13 +1,13 @@
 # Build outputs
-SAD_BookBuffet/build/
+build/
 
 # Libraries
-SAD_BookBuffet/lib/
+lib/
 
 #IDE Files
-SAD_BookBuffet/nbproject/
+nbproject/
 
 # Generated Files
-SAD_BookBuffet/manifest.mf
+manifest.mf
 
 /.history
