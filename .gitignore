@@ -1,0 +1,13 @@
+# Build outputs
+build/
+
+# Libraries
+lib/
+
+#IDE Files
+nbproject/
+
+# Generated Files
+manifest.mf
+
+/.history
